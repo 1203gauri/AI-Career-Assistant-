@@ -1,0 +1,11 @@
+credentials:
+  usernames:
+    admin:
+      name: Admin User
+      password: "$5$rounds=535000$wnnJ54UYfPP95vZa$GwyL5.LZdKC0RhLiwGI3gaLc/xwjyTzcTl63mIJD0p3"
+cookie:
+  expiry_days: 1
+  key: some_signature_key
+  name: pathai_login
+preauthorized:
+  emails: []
